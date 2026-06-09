@@ -177,6 +177,15 @@ footer {
     text-decoration: underline;
 }
 
+.footer-stats {
+  font-size: 14px;
+  margin: 15px 0;
+}
+
+.footer-stats p {
+  margin: 5px 0;
+}
+
 @media (max-width: 768px) {
 
     .navbar {
